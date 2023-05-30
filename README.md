@@ -4,7 +4,7 @@ Bookshelf was created as a final project for an OOP (object-oriented programming
 
 ## Introduction
 
-Bookshelf is an interactive reading management tool with basic CRUD (create, read, update, delete) capabilities. I was motivated to create this project after looking for a locally hosted service that will keep track of my progress in as many books as I want. I still believe myself to be a beginner programmer, and this might be the most elaborate project I’ve worked on. To some it may seem like a trivial project, but I wanted to push myself after picking up on good programming techniques and practices in several courses at Mizzou.
+Bookshelf is an interactive reading management tool with basic CRUD (create, read, update, delete) capabilities. I was motivated to create this project after looking for a locally hosted service that will keep track of my progress in as many books as I want. 
 
 ## Purpose
 
